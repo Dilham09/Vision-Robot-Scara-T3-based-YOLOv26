@@ -16,9 +16,6 @@
 
 ---
 
-<!-- Replace the image below with an actual screenshot of the running application -->
-![Application Screenshot](docs/images/app-screenshot.png)
-
 </div>
 
 ---
@@ -155,7 +152,7 @@ yolo-scara-pick-place/
 ### 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yolo-scara-pick-place.git
+git clone https://github.com/Dilham09/Vision-Robot-Scara-T3-based-YOLOv26.git
 cd yolo-scara-pick-place
 ```
 
